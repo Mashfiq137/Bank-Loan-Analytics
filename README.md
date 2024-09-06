@@ -269,18 +269,3 @@ This project has provided valuable insights into the bank's loan portfolio, high
 
 The visualizations and findings presented in the Power BI and Tableau dashboards offer a clear understanding of the loan portfolio's performance and risk profiles. Moving forward, these insights will guide in optimizing loan offerings, improving financial health assessments, and enhancing customer satisfaction.
 
-Thank you for exploring the bank loan analysis project. We look forward to continuing to leverage data-driven approaches to drive business forward.
-
----
-
-## MIT License
-
-This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
-
----
-
-### Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-%23003366?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
-
-
